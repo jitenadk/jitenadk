@@ -1,3 +1,4 @@
+```
 [lupinx@github ~]$ whoami
 Cybersecurity Specialist | SOC Analyst | Embedded Explorer
 
@@ -59,3 +60,4 @@ Website:   https://yourwebsite.com
 Hack the planet, but do it ethically.
 
 [lupinx@github ~]$ sleep infinity
+```
